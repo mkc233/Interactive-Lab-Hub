@@ -7,3 +7,4 @@ Completed Labs for Michael Chan
 3. [Michael C's Lab 3](https://github.com/mkc233/IDD-Fa19-Lab3)
 4. [Michael C's Lab 4](https://github.com/mkc233/IDD-Fa19-Lab4)
 5. [Michael C's Lab 5](https://github.com/mkc233/IDD-Fa19-Lab5)
+6. [Michael C's Lab 6](https://github.com/mkc233/IDD-Fa19-Lab6)
