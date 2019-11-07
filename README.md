@@ -11,4 +11,4 @@ Completed Labs for Michael Chan
 7. [Michael C's Lab 7](https://github.com/mkc233/IDD-Fa19-Lab7)
 
 Final Project
-[Michael C's Final Project]
+[Michael C's Final Project](https://github.com/mkc233/IDD-Fa19-Final-Project)
