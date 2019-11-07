@@ -12,4 +12,4 @@ Completed Labs for Michael Chan
 
 Final Project
 
-[Michael C's Final Project](https://github.com/mkc233/IDD-Fa19-Final-Project)
+  [Michael C's Final Project](https://github.com/mkc233/IDD-Fa19-Final-Project)
